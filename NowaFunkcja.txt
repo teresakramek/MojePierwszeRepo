@@ -1,0 +1,8 @@
+Nowy dokument txt zawierający tekst związany z Lorem ipsum:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare justo in tincidunt auctor.
+Vivamus sapien enim, scelerisque vel arcu eu, iaculis lobortis enim.
+Nam condimentum nisl vitae dui rhoncus, ut vestibulum sem iaculis.
+Duis mauris massa, accumsan ac condimentum sed, dapibus vitae erat.
+Maecenas aliquam pharetra leo et rutrum. Vestibulum posuere non nunc nec eleifend.
+Suspendisse lacus magna, placerat vitae aliquam vel, tincidunt eu ex.
