@@ -1,0 +1,4 @@
+Przykładowy plik tekstowy, który zawiera jakąś treśc. Treść może zawierać blędy, które osoba CRkująca powinna zauważyć przy wykonywaniu Code Review.
+Utworzone repozytorium pozwola nam na swobdną pracę z innymi członkami zespolu nad jednym projektem.
+Każdy uczesnik może pracować nad jakąś częścią kodu nie czekając na zmiany reszty części zespołu.
+Scalanie branches jest proste w obsłudze.
